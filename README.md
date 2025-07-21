@@ -5,6 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=BCA+3rd+Sem+Student;Java+%7C+Python+%7C+Web+Dev;Always+Learning+%F0%9F%9A%80;Future+Data+Analyst" alt="Typing SVG" />
 </p>
 
+---
 
 🎓 BCA 3rd Semester | CGPA: 9.6  
 💻 Java | Python | DSA | Web Development  
