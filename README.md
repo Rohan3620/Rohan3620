@@ -1,4 +1,6 @@
-# 👋 Hi there! I'm Rohan Mishra
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+I'm+Rohan+Mishra;BCA+3rd+Sem+Student;Java+%7C+Python+%7C+Web+Dev;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+
+---
 
 🎓 BCA 3rd Semester | CGPA: 9.6  
 💻 Java | Python | DSA | Web Development  
@@ -22,6 +24,7 @@
 
 ![Rohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rohan3620&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan3620&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rohan3620&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
 
 ---
 
@@ -31,6 +34,12 @@
 - 💼 [LinkedIn](#)  
 - 📂 [Resume](#)  
 - 💻 [LeetCode](#)
+
+---
+
+## 🐍 GitHub Contribution Snake
+
+![Snake animation](https://github.com/Rohan3620/Rohan3620/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
